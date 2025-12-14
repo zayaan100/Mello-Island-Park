@@ -1,3 +1,2 @@
-Admin:
-admin@mello.com
-admin1234
+Admin:admin@mello.com
+password:admin1234
